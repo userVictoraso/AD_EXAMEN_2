@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="TORNEO@vps456458.ovh.net" uuid="872ec373-7bec-4ecb-bcac-2537bffb8d32">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://vps456458.ovh.net:3306/TORNEO</jdbc-url>
+    </data-source>
+  </component>
+</project>
